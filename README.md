@@ -60,7 +60,7 @@ Este é um projeto de API para gerenciamento de tarefas, desenvolvido com **Fast
 6. Acesse a documentação interativa da API:
    - [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) (Swagger UI)
 
-![ToDo_swagger](docs/ToDo_swagger.png)
+![ToDo_swagger](docs/ToDo_swagger.PNG)
 
 ## Estrutura do Projeto
 
